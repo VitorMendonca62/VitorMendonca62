@@ -1,12 +1,12 @@
 ## Olá, seja bem-vindo(a) 😃
 
 Sou <strong>Vitor Mendonça</strong>, estudante apaixonado por tecnologia e programação!
-Se eu não estiver pensando em alguma feature nova, aqui é onde você vai me encontrar, onde esses imaginação e criatividade irão virar vários zeros e uns.
+Se eu não estiver pensando em alguma feature nova, aqui é onde você vai me encontrar, onde verá a minha criatividade e imaginação se tornando em vários uns e zeros.
 
 
 ## 💬 Formas de contato: 
 <div>
-  <a href = "mailto:vitorqueiroz325@gmail.comail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:vitorqueiroz325@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/vitormendonca62/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
@@ -28,11 +28,12 @@ Se eu não estiver pensando em alguma feature nova, aqui é onde você vai me en
     <li>Bootstrap</li>
     <li>Resposividade</li>
     <li>Consumo de API's</li>
-    <li>Versionamento</li>
+    <li>Versionamento de código</li>
     <li>Express</li>
     <li>Mongosee</li>
     <li>JWT</li>
     <li>Sequelize</li>
+    <li>Gerenciamento de pacotes (NPM e Yarn)</li>
 </ul>
 
 
