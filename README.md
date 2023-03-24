@@ -1,7 +1,6 @@
 ## Olá, seja bem-vindo(a) 😃
 
-Sou <strong>Vitor Mendonça</strong>, estudante apaixonado por tecnologia e programação!
-Se eu não estiver pensando em alguma feature nova, aqui é onde você vai me encontrar, onde verá a minha criatividade e imaginação se tornando em vários uns e zeros.
+Olá! Meu nome é <strong>Vitor Mendonça</strong> e sou um estudante apaixonado por tecnologia e programação. Se você está procurando alguém que respira e vive tecnologia, então você acaba de encontrar a pessoa certa! Eu sou movido por desafios e sempre busco estar atualizado com as tendências e novidades do mercado. Quando não estou criando novas funcionalidades, estou experimentando e explorando novas tecnologias. Se você quer uma mente criativa e inovadora na sua equipe, estou pronto para mostrar meu potencial e contribuir para o sucesso da sua empresa.
 
 
 ## 💬 Formas de contato: 
