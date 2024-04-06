@@ -1,41 +1,49 @@
 ## Olá, seja bem-vindo(a) 😃
 
-Olá! Meu nome é <strong>Vitor Mendonça</strong> e sou um estudante apaixonado por tecnologia e programação. Se você está procurando alguém que respira e vive tecnologia, então você acaba de encontrar a pessoa certa! Eu sou movido por desafios e sempre busco estar atualizado com as tendências e novidades do mercado. Quando não estou criando novas funcionalidades, estou experimentando e explorando novas tecnologias. Se você quer uma mente criativa e inovadora na sua equipe, estou pronto para mostrar meu potencial e contribuir para o sucesso da sua empresa.
+<p style="display: flex; align-items: center;">
+  <span style="max-width: 15px;word-wrap: break-word;"> Olá! Meu nome é <strong>Vitor Mendonça</strong> e sou um estudante apaixonado por tecnologia e programação. </span>
+    <img src="https://i.makeagif.com/media/3-24-2016/JrSj8G.gif">
+</p>
+
+
+Olá! Meu nome é <strong>Vitor Mendonça</strong> e sou um estudante apaixonado por tecnologia e programação.
+  ![test]()
 
 
 ## 💬 Formas de contato: 
 <div>
   <a href = "mailto:vitorqueiroz325@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/vitormendonca62/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/vitormendonca62/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 
 ## 💻 Linguagens e ferramentas:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg"></code>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
+![Github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 
 ## 🚀 Skills:
 <ul>
     <li>Criaçao de templates para sites</li>
-    <li>Bootstrap</li>
     <li>Resposividade</li>
-    <li>Consumo de API's</li>
+    <li>Consumo e criação de API's</li>
     <li>Versionamento de código</li>
     <li>Express</li>
-    <li>Mongosee</li>
     <li>JWT</li>
     <li>Sequelize</li>
     <li>Gerenciamento de pacotes (NPM e Yarn)</li>
 </ul>
-
-
 
 ## Stats:
 [![Github status VitorMendonca62](https://github-readme-stats.vercel.app/api?username=vitormendonca62&show_icons=true&theme=buefy)](https://github.com/vitormendonca62/github-readme-stats)
