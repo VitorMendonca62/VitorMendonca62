@@ -4,14 +4,6 @@ Olá! Meu nome é <strong>Vitor Mendonça</strong> e sou um estudante apaixonado
 
 ![macaco passando raiva](https://i.makeagif.com/media/3-24-2016/JrSj8G.gif)
 
-
-## 💬 Formas de contato: 
-<div>
-  <a href = "mailto:vitorqueiroz325@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitormendonca62/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-
 ## 💻 Linguagens e ferramentas:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
@@ -39,6 +31,12 @@ Olá! Meu nome é <strong>Vitor Mendonça</strong> e sou um estudante apaixonado
     <li>Sequelize</li>
     <li>Gerenciamento de pacotes (NPM e Yarn)</li>
 </ul>
+
+## 💬 Formas de contato: 
+<div>
+  <a href = "mailto:vitorqueiroz325@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vitormendonca62/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 ## Stats:
 [![Github status VitorMendonca62](https://github-readme-stats.vercel.app/api?username=vitormendonca62&show_icons=true&theme=buefy)](https://github.com/vitormendonca62/github-readme-stats)
