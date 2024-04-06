@@ -1,13 +1,8 @@
 ## Olá, seja bem-vindo(a) 😃
 
-<p style="display: flex; align-items: center;">
-  <span style="max-width: 15px;word-wrap: break-word;"> Olá! Meu nome é <strong>Vitor Mendonça</strong> e sou um estudante apaixonado por tecnologia e programação. </span>
-    <img src="https://i.makeagif.com/media/3-24-2016/JrSj8G.gif">
-</p>
-
-
 Olá! Meu nome é <strong>Vitor Mendonça</strong> e sou um estudante apaixonado por tecnologia e programação.
-  ![test]()
+
+![macaco passando raiva](https://i.makeagif.com/media/3-24-2016/JrSj8G.gif)
 
 
 ## 💬 Formas de contato: 
