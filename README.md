@@ -19,6 +19,8 @@ Olá! Meu nome é <strong>Vitor Mendonça</strong> e sou um estudante apaixonado
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=Pandas&logoColor=FFF&style=for-the-badge)
+![Numpy](https://img.shields.io/badge/NumPy-013243?logo=Numpy&logoColor=FFF&style=for-the-badge)
 
 ## 🚀 Skills:
 <ul>
