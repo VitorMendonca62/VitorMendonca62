@@ -39,7 +39,3 @@ Olá! Meu nome é <strong>Vitor Mendonça</strong> e sou um estudante apaixonado
   <a href = "mailto:vitorqueiroz325@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitormendonca62/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-## Stats:
-[![Github status VitorMendonca62](https://github-readme-stats.vercel.app/api?username=vitormendonca62&show_icons=true&theme=buefy)](https://github.com/vitormendonca62/github-readme-stats)
-[![Top Linguagens usadas por VitorMendonca](https://github-readme-stats.vercel.app/api/top-langs/?username=vitormendonca62&layout=compact&show_icons=true&theme=buefy)](https://github.com/vitormendonca62/github-readme-stats)
