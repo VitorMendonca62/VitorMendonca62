@@ -56,17 +56,6 @@ Olá! Meu nome é <strong>Vitor Mendonça</strong> e sou um estudante apaixonado
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=Pandas&logoColor=FFF&style=for-the-badge)
 ![Numpy](https://img.shields.io/badge/NumPy-013243?logo=Numpy&logoColor=FFF&style=for-the-badge)
 
-## 🚀 Skills:
-<ul>
-    <li>Criaçao de templates para sites</li>
-    <li>Resposividade</li>
-    <li>Consumo e criação de API's</li>
-    <li>Versionamento de código</li>
-    <li>Express</li>
-    <li>JWT</li>
-    <li>Sequelize</li>
-    <li>Gerenciamento de pacotes (NPM e Yarn)</li>
-</ul>
 
 ## 💬 Formas de contato: 
 <div>
