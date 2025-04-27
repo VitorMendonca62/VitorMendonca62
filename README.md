@@ -22,6 +22,10 @@ Olá! Meu nome é <strong>Vitor Mendonça</strong> e sou um estudante apaixonado
 ![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
+### Mobile:
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
+
+
 ### Testes:
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=for-the-badge)
 
